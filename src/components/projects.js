@@ -8,7 +8,7 @@ export default function ProjectCards(){
         <div class="container px-5 py-24 mx-auto">
             <div class="flex flex-col text-center w-full mb-20">
             <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">My Projects!</h1>
-            <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Here you will find my open-sourced projects that are availble on github, projects will be added continuously as completed. <br/> You'll find my most used Languages here such as: <br/> C#, JavaSscript, Python .</p>
+            <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Here you will find my open-sourced projects that are availble on github, projects will be added continuously as completed. <br/> You will find my most used Languages here such as: <br/> C#, JavaSscript, Python .</p>
             </div>
             <div class="flex flex-wrap -m-4">
             <div class="lg:w-1/3 sm:w-1/2 p-4">

@@ -1,5 +1,9 @@
-export default function Contact(){
-    return(
-        g
-    )
-}
+import Contact from "../../../components/contact"
+export default function Home() {
+    return (
+      <>
+    <Contact/>
+     </> 
+      )
+  }
+  
