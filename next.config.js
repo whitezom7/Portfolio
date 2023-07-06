@@ -16,6 +16,12 @@ module.exports = {
           hostname: 'cdn.cloudflare.steamstatic.com',
           port: '',
           pathname: '/steam/apps/',
+        },
+        {
+          protocol: 'https',
+          hostname: 'avatars.githubusercontent.com',
+          port: '',
+          pathname: '/u/',
         }
         
       ],
@@ -24,6 +30,6 @@ module.exports = {
 
   module.exports = {
     images: {
-      domains: ['cdn.cloudflare.steamstatic.com'],
+      domains: ['cdn.cloudflare.steamstatic.com','avatars.githubusercontent.com'],
     },
   };

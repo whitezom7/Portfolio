@@ -40,7 +40,7 @@ export default function MostPlayed() {
         <div className="flex flex-wrap -m-4">
           {gameData.map((game) => (
             <div className="lg:w-1/3 sm:w-1/2 p-4" key={game.appid}>
-              <a href={`https://store.steampowered.com/app/${game.name}`} target="_blank" rel="noopener noreferrer">
+              <a href={`https://store.steampowered.com/app/${game.appid}`} target="_blank" rel="noopener noreferrer">
                 <div className="relative">
                   <div className="w-full bg-gray-900 opacity-75 group-hover:opacity-0 transition-opacity duration-300">
                     <div className="px-8 py-6 text-center">
@@ -55,7 +55,7 @@ export default function MostPlayed() {
                   </div>
                   <Image
                     alt={game.name}
-                    src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appid}/capsule_184x69.jpg`}
+                    src={`https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appid}/capsule_616x353.jpg`}
                     layout="responsive"
                     width={400}
                     height={200}
