@@ -30,6 +30,6 @@ module.exports = {
 
   module.exports = {
     images: {
-      domains: ['cdn.cloudflare.steamstatic.com','avatars.githubusercontent.com'],
+      domains: ['cdn.cloudflare.steamstatic.com','avatars.githubusercontent.com','res.cloudinary.com'],
     },
   };
