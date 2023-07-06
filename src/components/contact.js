@@ -63,7 +63,6 @@ export default function Contact() {
                 </div>
               </div>
             </form>
-  
             <div className="p-2 w-full pt-8 mt-8 border-t border-white text-center">
               <a href="mailto:contact@whitezom.dev" className="text-indigo-500">
                 contact@whitezom.dev
