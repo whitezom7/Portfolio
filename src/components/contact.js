@@ -3,7 +3,7 @@ import { Telegram, Github } from "../components/svgs/icons";
 
 export default function Contact() {
     return (
-      <section className="text-white body-font relative">
+      <section className="text-white body-font bg-indigo-950">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">
