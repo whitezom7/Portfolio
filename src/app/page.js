@@ -8,6 +8,7 @@ export default function Home() {
     <>
     <Head>
     <meta name="viewport" content="viewport-fit=cover" />
+    <meta name="abuseipdb-verification" content="fTUAXtOy" />
   </Head>
     <About/>
     <MostPlayed/>
