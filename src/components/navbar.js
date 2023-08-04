@@ -77,9 +77,9 @@ export default function Navbar() {
                     </a>
                     <a
                       className="block px-4 py-2 text-sm text-white hover:bg-indigo-500"
-                      href="/blog"
+                      href="http://status.whitezom.dev"
                     >
-                      Blogs
+                      Status
                     </a>
                     <a
                       className="block px-4 py-2 text-sm text-white hover:bg-indigo-500"
